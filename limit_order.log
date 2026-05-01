@@ -1,0 +1,2 @@
+2026-05-01 10:20:10,789 - INFO - Request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 70000, 'timeInForce': 'GTC', 'timestamp': 1714551610789}
+2026-05-01 10:20:11,012 - INFO - Response: {'orderId': 87654321, 'symbol': 'BTCUSDT', 'status': 'NEW', 'executedQty': '0.000', 'avgPrice': '0.00'}
